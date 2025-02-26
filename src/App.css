@@ -40,3 +40,17 @@
 .read-the-docs {
   color: #888;
 }
+
+.outer{
+  border: 1px solid black;
+  overflow: hidden;
+  width: 100vw;
+}
+
+.inner{
+  text-align: right;
+  width: 100%;
+  color: white;
+  /* transition: 0.5s ease-in; */
+  background-color: green;
+}
